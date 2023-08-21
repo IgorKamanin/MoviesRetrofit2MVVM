@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movies Retrofit2+MVVM</string>
+    <string name="menu_item_main">Главная</string>
+    <string name="menu_item_favorite">Избранное</string>
+    <string name="popular">по популярности</string>
+    <string name="rating">по рейтингу</string>
+    <string name="poster_content_description">постер к фильму</string>
+    <string name="show_comments">Показать комментарии пользователей</string>
+    <string name="no_trailer">Видео отсутствует</string>
+    <string name="added_to_fav">Добавлено в избранное</string>
+    <string name="removed_from_fav">Удалено из избранного</string>
+    <string name="connection_failed">Не удалось подключиться к kitsu.io</string>
+    <string name="failed_comments">Не удалось загрузить комментарии</string>
+</resources>
